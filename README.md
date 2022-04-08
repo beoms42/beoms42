@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**beoms42/beoms42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ISTP 개발자
+- https://fineday-42.tistory.com/ Tistory
+- beoms42@naver.com Mail
 
-Here are some ideas to get you started:
+### 기술
+- Java
+- Kotlin(예정)
+- React(예정)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 경력
+- 2017.02.01 ~ 2021.08.27 학점은행제 학사
+- 2020.10.12 ~ 2022.01.29 한전KDN 보안컨설팅부
+- 2022.02.07 ~ 2022.07.21 ACADEMY
+
+<div align=center>

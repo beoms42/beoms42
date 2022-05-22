@@ -3,7 +3,7 @@
 - https://fineday-42.tistory.com/ Tistory
 - beoms42@naver.com Mail
 
-### 기술
+### 기술스택
 - Java
 - JS
 - Kotlin(예정)

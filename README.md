@@ -5,6 +5,7 @@
 
 ### 기술
 - Java
+- JS
 - Kotlin(예정)
 - React(예정)
 

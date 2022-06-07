@@ -2,6 +2,7 @@
 ### ISTP 개발자
 - https://fineday-42.tistory.com/ Tistory
 - beoms42@naver.com Mail
+- GITHUB IO https://beoms42.github.io/index.html
 
 ### 기술스택
 - Java
